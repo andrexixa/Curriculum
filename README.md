@@ -1,7 +1,7 @@
 # Currículum André Alexander
 
 # André Alexander Arias Ropero
-
+# [Educación](Educación)
 ---
 
 ## Contacto
@@ -26,11 +26,13 @@
 
 ---
 ## Idiomas
+ | Idioma |   Nivel  |
+ |--------|----------|
+ |Español | (Nativo) |
+ |Catalán | (Nativo) |
+ |Inglés  | (Básico) | 
+ |Francés | (Aprendiendo) |
 
-- **Español** (Nativo)
-- **Catalán** (Nativo)
-- **Inglés** (Básico)
-- **Francés** (Aprendiendo)
 ---
 
 ## Educación
@@ -42,7 +44,7 @@
 - Curso de inteligencia artificial, robótica, ciberseguridad y programación de videojuegos.
 
 ### CTC Masquefa
-- 383 horas (Prácticas)
+> 383 horas (Prácticas)
 ```geojson
 {
   "type": "FeatureCollection",
