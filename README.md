@@ -8,6 +8,7 @@
 
 - 📞 666 66 66 66
 - ✉️ Correo: andre@gmail.com
+  😄🏞️🥞🎦
 ---
 ## Sobre mí
 
