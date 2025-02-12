@@ -43,9 +43,8 @@
 
 ### CTC Masquefa
 - 383 horas (Prácticas)
-
-  ```geojson
-  {
+```geojson
+{
   "type": "FeatureCollection",
   "features": [
     {
@@ -80,5 +79,5 @@
       }
     }
   ]
-} 
+}
 ```
